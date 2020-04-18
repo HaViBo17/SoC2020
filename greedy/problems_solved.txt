@@ -12,3 +12,7 @@ https://www.hackerearth.com/submission/40688095/
 
 https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/little-monk-and-his-toy-story/
 https://www.hackerearth.com/submission/40698187/
+
+https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/harry-and-horcrux-1-df65f8e9/
+https://www.hackerearth.com/submission/40710836/
+
