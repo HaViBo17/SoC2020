@@ -9,3 +9,6 @@ https://www.hackerearth.com/submission/40686931/
 
 https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/the-friendly-bear-960ef1b2/
 https://www.hackerearth.com/submission/40688095/
+
+https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/little-monk-and-his-toy-story/
+https://www.hackerearth.com/submission/40698187/
